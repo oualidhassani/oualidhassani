@@ -42,8 +42,8 @@ wlecome to my profile :
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/oualidhassani/oualidhassani/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/oualidhassani/count.svg?"  />
+</div>
 
 ###
