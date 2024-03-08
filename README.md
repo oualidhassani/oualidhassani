@@ -13,10 +13,6 @@ wlecome to my profile :
 
 ###
 
-<img align="right" height="150" src="https://cdn.intra.42.fr/users/90ef7aa48e469021c9963bf725922175/ohassani.jpeg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -51,4 +47,3 @@ wlecome to my profile :
 <img src="https://raw.githubusercontent.com/oualidhassani/oualidhassani/output/snake.svg" alt="Snake animation" />
 
 ###
-
