@@ -1,6 +1,6 @@
 <div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ohassani" alt="ohassani's 42 stats" /></a></div>
 
-<h2 align="center">Hi 👋 I'm Oualid, a current student at 1337, passionate about Development and mobile dev </h2>
+<h2 align="center">Hi 👋 I'm Oualid, a current student at 1337, passionate about Backend dev </h2>
 
 ###
 
