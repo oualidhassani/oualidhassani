@@ -8,7 +8,7 @@
 <h2 align="center">👋 Hi, I'm Oualid — Student at 1337 & Passionate Backend Developer</h2>
 
 <p align="center">
-  🌍 Based in Morocco <br>
+  <!-- 🌍 Based in Morocco <br> -->
   💻 Interested in backend development, APIs, and system design <br>
   🚀 Always learning and building new projects
 </p>
