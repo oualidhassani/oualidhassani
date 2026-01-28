@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical
 
 <div align="center">
 
