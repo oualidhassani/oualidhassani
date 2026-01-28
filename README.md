@@ -4,14 +4,14 @@
   </a>
   <br/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Oualid+Hassani;Student+at+1337+(42+Network);backend-Focused+Full+Stack+Dev;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&lines=Hi,+I'm+Oualid+Hassani;Student+at+1337+(42+Network);Backend-Focused+Full+Stack+Dev;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <b>📍 Safi, Morocco</b> | <b>Fr / En / Ar</b>
   <br/>
   <br/>
-  <i>I'm a software engineering student at 1337 42 Network. I specialize in Backend architecture, system design, and building robust APIs.</i>
+  <i>I'm a software engineering student at 1337 42 Network. I specialize in backend architecture, system design, and building robust APIs.</i>
 </div>
 
 ---
