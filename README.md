@@ -11,7 +11,7 @@
   <b>📍 Safi, Morocco</b> | <b>Fr / En / Ar</b>
   <br/>
   <br/>
-  <i>I'm a software engineering student at 1337 42 Network. I specialize in backend architecture, system design, and building robust APIs.</i>
+  <i>I'm a software engineering student at 1337 42 Network. I specialize in Backend architecture, system design, and building robust APIs.</i>
 </div>
 
 ---
